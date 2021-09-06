@@ -1,5 +1,5 @@
 # Inventory-Management-System-Assignment
-It's an inventory management system that asks users to add items to their inventory and purchase items depending on their preferences.
+This repository is having all the codes in ipynb file with json files for making an Inventory Management system during ETG AI/ML Internship
 
 ##I created an inventory management system that utilises a NoSQL database.
 ### The user is asked to do the following:
